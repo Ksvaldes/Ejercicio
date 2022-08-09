@@ -1,0 +1,16 @@
+.letra{
+    width: 100px;
+    height: 100px;
+    background-color: goldenrod;
+    padding: 10px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+
+}
+.activo{
+    background-color: green;
+    color: white;
+}
